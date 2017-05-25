@@ -21,7 +21,7 @@ external_dependencies = {
    platforms = {
       linux = {
          FONTCONFIG = {
-            header = "harfbuzz/hb.h"
+            header = "fontconfig/fontconfig.h"
          }
       }
    }
