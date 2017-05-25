@@ -1,12 +1,12 @@
 package = "luafontmanager"
 version = "0.1.0-1"
 source = {
-   url = "https://github.com/deepakjois/luafontmanager",
+   url = "git+https://github.com/deepakjois/luafontmanager",
    tag = "v0.1.0"
 }
 description = {
    summary = "A Lua module to access the system font catalog",
-   homepage = "*** please enter a project homepage ***",
+   homepage = "https://github.com/deepakjois/luafontmanager",
    license = "MIT"
 }
 supported_platforms = {
