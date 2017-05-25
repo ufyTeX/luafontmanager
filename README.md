@@ -9,5 +9,5 @@ A Lua module to provide access to the system font catalog.
 
 
 ## Credits
-* [lltxplatform]: https://github.com/phst/lltxplatform
-* [font-manager]: https://github.com/devongovett/font-manager
+* [lltxplatform](https://github.com/phst/lltxplatform)
+* [font-manager](https://github.com/devongovett/font-manager)
