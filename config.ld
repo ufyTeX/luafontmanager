@@ -1,0 +1,9 @@
+project = 'luafontmanager'
+description = 'Lua module to provide access to the system font catalog.'
+dir = 'docs'
+use_markdown_titles = true
+backtick_references = false
+title = 'luafontmanager Documentation'
+file = {'src/fontmanager.lua'}
+examples = 'examples'
+format = 'markdown'

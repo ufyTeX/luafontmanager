@@ -1,0 +1,10 @@
+local fm = require("fontmanager")
+
+describe("fontmanager module", function()
+  describe("get_installed_fonts", function()
+    it("return a non empty list of fonts", function()
+      local list = fm.get_installed_fonts()
+      assert.True(#list > 0)
+    end)
+  end)
+end)

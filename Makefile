@@ -4,4 +4,10 @@ lint:
 clean:
 	rm *.so *.o
 
-.PHONY: lint clean
+spec:
+	busted .
+
+doc:
+	ldoc -d docs .
+
+.PHONY: lint clean spec doc
