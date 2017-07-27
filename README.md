@@ -14,7 +14,7 @@ luarocks install luafontmanager
 ```
 
 ## Documentation
-* [API Docs](https://deepakjois.github.io/luafontmanager/)
+* [API Docs](https://ufytex.github.io/luafontmanager/)
 
 ## Usage
 
