@@ -1,11 +1,11 @@
 package = "luafontmanager"
 version = "scm-1"
 source = {
-  url = "git+https://github.com/deepakjois/luafontmanager"
+  url = "git+https://github.com/ufytex/luafontmanager"
 }
 description = {
   summary = "A Lua module to access the system font catalog",
-  homepage = "https://github.com/deepakjois/luafontmanager",
+  homepage = "https://github.com/ufytex/luafontmanager",
   license = "MIT"
 }
 dependencies = {
